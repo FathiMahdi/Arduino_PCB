@@ -4,3 +4,6 @@
 - Open source design for arduino board
 - Feel Free to adding modifing the project.
 - For serious work please refere to this repository.
+- Circuit intgrity not guranteed.
+- Not tesed circuit.
+- PCB routing not provided.
